@@ -5,7 +5,7 @@ import App from './App.jsx'
 import { UserContextProvider } from './contexts/UserContext.jsx'
 import { CourseContextProvider } from './contexts/CourseContext.jsx'
 
-export const server = 'http://localhost:5000';
+export const server = 'https://ed-tech-7m0e.onrender.com';
 createRoot(document.getElementById('root')).render(
   <StrictMode>
      <CourseContextProvider>
