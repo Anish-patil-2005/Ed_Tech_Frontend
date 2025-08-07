@@ -1,12 +1,17 @@
-# React + Vite
+EdTech Learning Platform | MERN Stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed a scalable and secure web-based learning platform using the MERN stack, incorporating key features for user engagement, course management, and admin control.
 
-Currently, two official plugins are available:
+Key Responsibilities & Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+• Implemented OTP-based user authentication with JWT for secure session handling
+• Integrated Razorpay for seamless and secure payment processing
+• Designed and enforced Role-Based Access Control (RBAC) for Admin and User workflows
+• Built an Admin Dashboard to manage courses: create, update, delete courses, and upload lectures
+• Enabled users to explore and purchase courses, with access to associated content post-purchase
 
-## Expanding the ESLint configuration
+Tech Stack: MongoDB | Express.js | React.js | Node.js | JWT | Razorpay | Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 Live Demo: https://ed-tech-frontend-theta.vercel.app/
+🔗 GitHub Repository: https://github.com/Anish-patil-2005/Ed_Tech_Frontend
+🔗 GitHub Repository (Backend/api) : https://github.com/Anish-patil-2005/Ed_Tech
