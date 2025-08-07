@@ -12,6 +12,6 @@ Key Responsibilities & Features:
 
 Tech Stack: MongoDB | Express.js | React.js | Node.js | JWT | Razorpay | Tailwind CSS
 
-🔗 Live Demo: https://ed-tech-frontend-theta.vercel.app/
-🔗 GitHub Repository: https://github.com/Anish-patil-2005/Ed_Tech_Frontend
-🔗 GitHub Repository (Backend/api) : https://github.com/Anish-patil-2005/Ed_Tech
+# 🔗 Live Demo: https://ed-tech-frontend-theta.vercel.app/
+# 🔗 GitHub Repository: https://github.com/Anish-patil-2005/Ed_Tech_Frontend
+# 🔗 GitHub Repository (Backend/api) : https://github.com/Anish-patil-2005/Ed_Tech
